@@ -1,0 +1,3 @@
+[submodule "DAO classes"]
+	path = DAO classes
+	url = https://github.com/EmpiricalStudies/experiment-strategy-pattern-impact-maintainability.git
